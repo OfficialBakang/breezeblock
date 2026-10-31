@@ -1,0 +1,107 @@
+{
+  "name": "Wine",
+  "kind": "drinks",
+  "order": 150,
+  "intro": "",
+  "items": [
+    {
+      "name": "Glass of Sparkling Wine",
+      "description": "",
+      "price": "R38",
+      "group": "MCC",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Miss Molly Bubbly",
+      "description": "",
+      "price": "R270",
+      "group": "MCC",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Graham Beck Brut",
+      "description": "",
+      "price": "R330",
+      "group": "MCC",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "White",
+      "description": "",
+      "price": "R40 (180ml glass); R120 (bottle)",
+      "group": "House Wine",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Red",
+      "description": "",
+      "price": "R40 (180ml glass); R120 (bottle)",
+      "group": "House Wine",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Vondeling Petit Rosé",
+      "description": "",
+      "price": "R160",
+      "group": "Rosé & White Wine",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Alvi’s Drift Signature Viognier",
+      "description": "",
+      "price": "R160",
+      "group": "Rosé & White Wine",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Fat Bastard Chardonnay",
+      "description": "",
+      "price": "R190",
+      "group": "Rosé & White Wine",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Paul Cluver Sauvignon Blanc",
+      "description": "",
+      "price": "R240",
+      "group": "Rosé & White Wine",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Vondeling Baldrick Shiraz",
+      "description": "",
+      "price": "R180",
+      "group": "Red Wine",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Paul Cluver Village Pinot Noir",
+      "description": "",
+      "price": "R250",
+      "group": "Red Wine",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}

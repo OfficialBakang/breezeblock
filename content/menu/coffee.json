@@ -1,0 +1,107 @@
+{
+  "name": "Coffee",
+  "kind": "drinks",
+  "order": 100,
+  "intro": "Coffee is Life",
+  "items": [
+    {
+      "name": "Cortado",
+      "description": "",
+      "price": "R26",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Flat White",
+      "description": "",
+      "price": "R27",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Cappuccino",
+      "description": "",
+      "price": "R27",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Café Latte",
+      "description": "",
+      "price": "R29",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Espresso",
+      "description": "",
+      "price": "R20",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Macchiato",
+      "description": "",
+      "price": "R21",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Americano",
+      "description": "",
+      "price": "R22",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Iced Latte",
+      "description": "",
+      "price": "R29",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Extra Espresso shot",
+      "description": "",
+      "price": "R7",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Soya milk",
+      "description": "",
+      "price": "R8",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Almond milk",
+      "description": "",
+      "price": "R12",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}

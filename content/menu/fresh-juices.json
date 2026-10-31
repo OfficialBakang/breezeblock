@@ -1,0 +1,35 @@
+{
+  "name": "Fresh Juices",
+  "kind": "drinks",
+  "order": 130,
+  "intro": "Fresh pressed. Combine as you like!",
+  "items": [
+    {
+      "name": "Carrot, Apple, Orange, Ginger",
+      "description": "",
+      "price": "R38",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Pineapple",
+      "description": "",
+      "price": "R42",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Extra Shot Ginger",
+      "description": "",
+      "price": "R5",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}

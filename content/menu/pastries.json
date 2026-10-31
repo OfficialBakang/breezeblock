@@ -1,0 +1,53 @@
+{
+  "name": "Pastries",
+  "kind": "food",
+  "order": 10,
+  "intro": "",
+  "items": [
+    {
+      "name": "Muffins – Chocolate Chip and Blueberry",
+      "description": "",
+      "price": "R14",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Pain au chocolat",
+      "description": "",
+      "price": "R35",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Plain Croissant",
+      "description": "",
+      "price": "R35",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Grilled Croissant – Melted Cheddar & Oregano",
+      "description": "",
+      "price": "R50",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Grilled Croissant – Hickory Ham & melted cheddar",
+      "description": "",
+      "price": "R69",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}

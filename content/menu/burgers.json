@@ -1,0 +1,35 @@
+{
+  "name": "Burgers",
+  "kind": "food",
+  "order": 70,
+  "intro": "Feel free to add extras to your burger.",
+  "items": [
+    {
+      "name": "Regular Beef Burger",
+      "description": "Café made, 150g grass fed beef patty served on burger roll with mayo, tomato sauce, lettuce, red onion and tomato. (add wedges or side salad + R25)",
+      "price": "R70",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Mature Cheddar Cheese Beef Burger",
+      "description": "As above, with mature cheddar cheese (add wedges or side salad + R25)",
+      "price": "R90",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Bacon and Avo Beef Burger",
+      "description": "Regular grass fed beef burger with Avocado and Streaky Bacon (add wedges or side salad + R25)",
+      "price": "R90",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}

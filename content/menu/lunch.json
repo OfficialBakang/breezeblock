@@ -1,0 +1,44 @@
+{
+  "name": "Lunch",
+  "kind": "food",
+  "order": 40,
+  "intro": "",
+  "items": [
+    {
+      "name": "Chicken Livers",
+      "description": "Spicy and creamy, with a slice of bread. A local favourite!",
+      "price": "R60",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Inkhukhu Couscous",
+      "description": "Grilled spicy chicken leg quarter served with beans and corn on a bed of couscous topped with tomato relish & cucumber salsa. (takes a little while)",
+      "price": "R88",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Potato Wedges & Mayo",
+      "description": "Our famous crispy addictive wedges with mayo or chilli mayo",
+      "price": "R32",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Soup and Bread",
+      "description": "Roast butternut & apple, served with a slice of sour dough rye. Thai vegetable served with a slice of sour dough rye.",
+      "price": "R42",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}

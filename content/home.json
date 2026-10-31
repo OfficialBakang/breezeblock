@@ -1,0 +1,145 @@
+{
+  "heroHeadline": "Good food. Great coffee. A little piece of Brixton.",
+  "heroText": "Your neighbourhood cafe for slow mornings, beautiful lunches, proper coffee and good company.",
+  "introHeadline": "More than a coffee stop.",
+  "introBody": [
+    "Breezeblock is an independent, owner-run cafe in Brixton, built around good food, great coffee, art and community.",
+    "Come for a quick meal, or linger over a chessboard, a novel or the newspaper. The interior and courtyard were designed by artist Justin Brett, with colours and textures inspired by Brixton Ridge and the heritage homes of the neighbourhood."
+  ],
+  "courtyardHeadline": "Find your favourite corner.",
+  "courtyardText": "Settle into our courtyard oasis, enjoy the garden, catch up with friends or simply stay a little longer.",
+  "courtyardFeatures": [
+    "Succulent garden",
+    "Fish pond",
+    "Reclaimed tile mural",
+    "Outdoor seating",
+    "Artistic interior",
+    "Restored furniture and decorative details"
+  ],
+  "foodHeadline": "Something delicious, every time.",
+  "signatureDishes": [
+    {
+      "name": "Meppel Pancakes",
+      "description": "Our famous Dutch-inspired baked pancakes, sweet or savoury. Try the bacon, roast tomatoes & cream cheese.",
+      "price": "R30–R55",
+      "note": "Weekends & public holidays only",
+      "photo": null,
+      "photoAlt": "Meppel Pancakes"
+    },
+    {
+      "name": "Huevos Rancheros",
+      "description": "Two fried eggs, smashed spicy beans, tomato salsa, cheese & avocado served on a tortilla, topped with coriander.",
+      "price": "R105–R110",
+      "note": "With chorizo or black mushrooms",
+      "photo": null,
+      "photoAlt": "Huevos Rancheros"
+    },
+    {
+      "name": "Eggs Mirza",
+      "description": "Poached eggs in smoky aubergine and fragrant garlic turmeric tomato sauce, topped with a minty drizzle and harrisa.",
+      "price": "R85",
+      "note": "",
+      "photo": null,
+      "photoAlt": "Eggs Mirza"
+    },
+    {
+      "name": "The V Sandwich",
+      "description": "Avo, haloumi, tomatoes, tapenade and pesto-mayo, on home-baked buttermilk, health bread or a wrap.",
+      "price": "R80",
+      "note": "",
+      "photo": null,
+      "photoAlt": "The V Sandwich"
+    },
+    {
+      "name": "Chicken Livers",
+      "description": "Spicy and creamy, with a slice of bread. A local favourite!",
+      "price": "R60",
+      "note": "",
+      "photo": null,
+      "photoAlt": "Chicken Livers"
+    },
+    {
+      "name": "Inkhukhu Couscous",
+      "description": "Grilled spicy chicken leg quarter with beans and corn on a bed of couscous, topped with tomato relish & cucumber salsa.",
+      "price": "R88",
+      "note": "Takes a little while",
+      "photo": null,
+      "photoAlt": "Inkhukhu Couscous"
+    },
+    {
+      "name": "Gooey Chocolate Fondant",
+      "description": "Gooey chocolate fondant with vanilla ice cream.",
+      "price": "R50",
+      "note": "",
+      "photo": null,
+      "photoAlt": "Gooey Chocolate Fondant"
+    }
+  ],
+  "coffeeHeadline": "Coffee is serious business.",
+  "coffeeBody": [
+    "Our blend of beans from Brazil, Guatemala and Uganda is locally roasted in Johannesburg, and was chosen after extensive research. The result is a smooth cup that cuts through the milk.",
+    "We chose our cup size to get the ratio of espresso, milk and froth right for an excellent cappuccino, and our barista regularly adjusts the grind to keep every extraction on point.",
+    "In a rush? Take it away in a biodegradable cup. Buy a reusable bamboo cup and your first coffee is on the house."
+  ],
+  "coffeeHighlights": [
+    {
+      "name": "Espresso",
+      "price": "R20"
+    },
+    {
+      "name": "Cappuccino",
+      "price": "R27"
+    },
+    {
+      "name": "Flat White",
+      "price": "R27"
+    },
+    {
+      "name": "Café Latte",
+      "price": "R29"
+    },
+    {
+      "name": "Iced Latte",
+      "price": "R29"
+    }
+  ],
+  "stayHeadline": "Come for coffee. Stay for the afternoon.",
+  "stayPoints": [
+    {
+      "title": "High-speed fibre internet",
+      "text": "A good place to get some work done."
+    },
+    {
+      "title": "Relaxed seating",
+      "text": "Settle into the cosy interior or find a spot in the courtyard."
+    },
+    {
+      "title": "Chess and books",
+      "text": "Linger over a chessboard, a novel or the newspaper."
+    },
+    {
+      "title": "Outdoor courtyard",
+      "text": "Succulent garden, fish pond and reclaimed tile mural."
+    },
+    {
+      "title": "Friendly neighbourhood atmosphere",
+      "text": "All are welcome. The menu includes affordable items so everyone can find something that suits their pocket."
+    }
+  ],
+  "eventsHeadline": "Your next gathering, in a space with character.",
+  "eventsBody": "We're licensed, happy to host big groups for breakfasts, lunches, celebrations and private dinners, and can provide audio-visual equipment if needed. Tell us what you have in mind and we'll be happy to provide a quote.",
+  "eventTypes": [
+    "Birthdays",
+    "Engagement celebrations",
+    "Anniversaries",
+    "Private lunches and dinners",
+    "Corporate gatherings",
+    "Book launches",
+    "Music events",
+    "Film screenings",
+    "Creative events",
+    "Weddings and other celebrations"
+  ],
+  "locationHeadline": "Right here in Brixton.",
+  "locationText": "Just three minutes up the hill from Melville's 7th Avenue and 44 Stanley."
+}

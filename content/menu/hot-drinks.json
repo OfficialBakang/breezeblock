@@ -1,0 +1,71 @@
+{
+  "name": "Hot Drinks",
+  "kind": "drinks",
+  "order": 110,
+  "intro": "",
+  "items": [
+    {
+      "name": "Mug of Teabag-tea (Ceylon, Rooibos)",
+      "description": "",
+      "price": "R18",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Pot of Leaf-tea (Breakfast, Earl Grey, Rooibos, Hibiscus, Green)",
+      "description": "",
+      "price": "R27",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Hot Chocolate",
+      "description": "",
+      "price": "R30",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Red Cappuccino",
+      "description": "",
+      "price": "R27",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Red Latte",
+      "description": "",
+      "price": "R30",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Chai Latte",
+      "description": "",
+      "price": "R30",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Café Mocha",
+      "description": "",
+      "price": "R31",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}

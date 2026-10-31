@@ -1,0 +1,40 @@
+{
+  "name": "Breezeblock Cafe",
+  "tagline": "Brixton's Neighbourhood Cafe.",
+  "phoneGeneral": "078 175 2556",
+  "whatsappGeneral": "27781752556",
+  "phoneEvents": "071 239 2038",
+  "eventsContactName": "Portia",
+  "eventsWhatsappConfirmed": false,
+  "email": "info@breezeblock.co.za",
+  "streetAddress": "29 Chiswick Street",
+  "suburb": "Brixton",
+  "city": "Johannesburg",
+  "postalCode": "2092",
+  "hours": [
+    {
+      "days": "Monday–Friday",
+      "dayCodes": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "07:00",
+      "closes": "16:00"
+    },
+    {
+      "days": "Saturday–Sunday",
+      "dayCodes": [
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "16:00"
+    }
+  ],
+  "instagramUrl": "https://www.instagram.com/breezeblockbrixton",
+  "facebookUrl": "https://www.facebook.com/breezeblockbrixton",
+  "menuNotice": "Menu items and prices may change. Please contact us for the latest information."
+}

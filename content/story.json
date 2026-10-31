@@ -1,0 +1,47 @@
+{
+  "headline": "A neighbourhood cafe, made with care.",
+  "standfirst": "Breezeblock is an independent, owner-run cafe in Brixton, Johannesburg: somewhere to eat well, drink good coffee and stay a while.",
+  "chapters": [
+    {
+      "title": "Made for Brixton",
+      "body": [
+        "We love our neighbourhood, and we hope Brixton residents enjoy the space we've created.",
+        "Our aim is to become Brixton locals' favourite coffee shop, and to draw other Jo'burgers to visit and appreciate Brixton's beautiful, diverse and artistic neighbourhood."
+      ]
+    },
+    {
+      "title": "A room with a point of view",
+      "body": [
+        "The interior and courtyard were designed by artist Justin Brett. The colours and textures of the decor were inspired by Brixton Ridge, the koppie we call home, and by the many heritage homes in the neighbourhood."
+      ]
+    },
+    {
+      "title": "The courtyard",
+      "body": [
+        "Have breakfast or lunch with a view of the succulent garden, fish pond and reclaimed tile mural, or enjoy lunch and a cocktail in our courtyard oasis.",
+        "Come for a quick meal; come and linger over a chessboard, a novel or a newspaper."
+      ]
+    },
+    {
+      "title": "Coffee, taken seriously",
+      "body": [
+        "Our blend of beans from Brazil, Guatemala and Uganda is locally roasted in Johannesburg, chosen after extensive research. Our barista regularly adjusts the grind to make sure every extraction is a good one."
+      ]
+    },
+    {
+      "title": "Home-style food, global flavours",
+      "body": [
+        "Our kitchen offers unpretentious, flavourful and healthy breakfasts, brunches, lunches and snacks, with vegetarian and vegan options.",
+        "We're inspired by global flavours and interpret them into simple, tasty, home-style meals: Dutch-inspired baked pancakes, Persian-inspired baked eggs and the Mexican classic, huevos rancheros."
+      ]
+    },
+    {
+      "title": "Everyone is welcome",
+      "body": [
+        "We have carefully crafted our menu to include affordable items so that everyone can find something that suits their pocket.",
+        "There's high-speed fibre internet for those who want to work, and events, from music and film screenings to book launches, for those who want to gather."
+      ]
+    }
+  ],
+  "pullQuote": "All are welcome!"
+}

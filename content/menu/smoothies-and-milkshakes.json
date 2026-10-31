@@ -1,0 +1,44 @@
+{
+  "name": "Smoothies & Milkshakes",
+  "kind": "drinks",
+  "order": 120,
+  "intro": "",
+  "items": [
+    {
+      "name": "Wakey Wakey Smoothie",
+      "description": "Espresso, peanut butter, banana and coconut milk (vegan)",
+      "price": "R42",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Tooty Fruity Smoothie",
+      "description": "Mixed seasonal fruit with yogurt and honey",
+      "price": "R42",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Oreo Milkshake",
+      "description": "",
+      "price": "R40",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Cinnamon Vanilla Milkshake",
+      "description": "",
+      "price": "R40",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}

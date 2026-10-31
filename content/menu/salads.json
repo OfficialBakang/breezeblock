@@ -1,0 +1,26 @@
+{
+  "name": "Salads",
+  "kind": "food",
+  "order": 60,
+  "intro": "",
+  "items": [
+    {
+      "name": "The Dense Green Salad",
+      "description": "Chargrilled broccoli, spinach, toasted cashews, spring onion, cucumber ribbons & sweet soya-ginger dressing. Add grilled chicken (R87) or Haloumi (R82)",
+      "price": "R62",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Nice Niçoise Salad",
+      "description": "Leafy greens, potato cubes, tuna, boiled eggs, tomatoes, onions, green beans, cucumbers, olives & our house dressing.",
+      "price": "R105",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}

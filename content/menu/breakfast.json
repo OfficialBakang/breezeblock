@@ -1,0 +1,260 @@
+{
+  "name": "Breakfast",
+  "kind": "food",
+  "order": 20,
+  "intro": "",
+  "items": [
+    {
+      "name": "Meneer Monsieur",
+      "description": "Two toasted slices of home baked bread topped fried eggs and a mustard cheese sauce.",
+      "price": "With ham (R85) or Spinach (R70)",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Huevos Rancheros",
+      "description": "Two fried eggs, smashed spicy beans, tomato salsa, cheese & avocado served on a tortilla, topped with coriander.",
+      "price": "With chorizo (R110) or black mushrooms (R105)",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Eggs Mirza",
+      "description": "Poached eggs in smoky aubergine and fragrant garlic turmeric tomato sauce, topped with a minty drizzle and harrisa. Served with a slice of toast.",
+      "price": "R85",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Omelette",
+      "description": "Cheddar, caramelised onions & chives",
+      "price": "R62",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Plain",
+      "description": "",
+      "price": "R50",
+      "group": "Scrambled Eggs & Toast",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "With bacon",
+      "description": "",
+      "price": "R68",
+      "group": "Scrambled Eggs & Toast",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "With avocado",
+      "description": "",
+      "price": "R66",
+      "group": "Scrambled Eggs & Toast",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "With Smoked Trout",
+      "description": "",
+      "price": "R120",
+      "group": "Scrambled Eggs & Toast",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Nothing",
+      "description": "",
+      "price": "R35",
+      "group": "Fresh-baked Croissant With",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Jam, butter & grated cheddar",
+      "description": "",
+      "price": "R55",
+      "group": "Fresh-baked Croissant With",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Scrambled eggs & bacon",
+      "description": "",
+      "price": "R76",
+      "group": "Fresh-baked Croissant With",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Avo on Toast",
+      "description": "A slice of our home baked toast with avo & homemade harrisa sauce",
+      "price": "R46",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "The Moral High Ground",
+      "description": "Raisin-free granola with yogurt & seasonal fresh fruit",
+      "price": "R60",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Plain Pancake or with sugar and Cinnamon",
+      "description": "",
+      "price": "R30",
+      "group": "Meppel Pancakes (weekends and public holidays only)",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Honey ricotta & spekulaas cookie crumbs",
+      "description": "",
+      "price": "R44",
+      "group": "Meppel Pancakes (weekends and public holidays only)",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Strawberries & mascarpone",
+      "description": "",
+      "price": "R50",
+      "group": "Meppel Pancakes (weekends and public holidays only)",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Bacon, roast tomatoes & cream cheese",
+      "description": "",
+      "price": "R55",
+      "group": "Meppel Pancakes (weekends and public holidays only)",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Mushrooms, tomatoes & cream cheese",
+      "description": "",
+      "price": "R50",
+      "group": "Meppel Pancakes (weekends and public holidays only)",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Avo",
+      "description": "",
+      "price": "R19",
+      "group": "Extras",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Bacon",
+      "description": "",
+      "price": "R25",
+      "group": "Extras",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "description": "",
+      "price": "R20",
+      "group": "Extras",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Mature Cheddar",
+      "description": "",
+      "price": "R30",
+      "group": "Extras",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Brown Mushrooms",
+      "description": "",
+      "price": "R15",
+      "group": "Extras",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Chorizo",
+      "description": "",
+      "price": "R17",
+      "group": "Extras",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Egg",
+      "description": "",
+      "price": "R8",
+      "group": "Extras",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Smoked Trout",
+      "description": "",
+      "price": "R70",
+      "group": "Extras",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Chicken Breast",
+      "description": "",
+      "price": "R35",
+      "group": "Extras",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Side Salad (small)",
+      "description": "",
+      "price": "R20",
+      "group": "Extras",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}

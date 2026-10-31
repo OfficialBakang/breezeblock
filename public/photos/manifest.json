@@ -1,0 +1,44 @@
+{
+  "slots": {
+    "coffee": "coffee-1.jpg",
+    "coffeeSecondary": "coffee-2.jpg",
+    "dish:Meppel Pancakes": "meppel-pancake.jpg"
+  },
+  "gallery": [
+    {
+      "file": "coffee-1.jpg",
+      "category": "coffee",
+      "alt": "Coffee being prepared at Breezeblock Cafe"
+    },
+    {
+      "file": "coffee-2.jpg",
+      "category": "coffee",
+      "alt": "A cup of coffee at Breezeblock Cafe"
+    },
+    {
+      "file": "meppel-pancake.jpg",
+      "category": "food",
+      "alt": "Meppel pancake with roast tomatoes, mushrooms and herb cream cheese"
+    },
+    {
+      "file": "canape-1.jpg",
+      "category": "events",
+      "alt": "Creamy mushroom and thyme bouchees, served at events"
+    },
+    {
+      "file": "canape-2.jpg",
+      "category": "events",
+      "alt": "Prawn tartar and avocado crostini, served at events"
+    },
+    {
+      "file": "canape-3.jpg",
+      "category": "events",
+      "alt": "Roasted tomato and ricotta crostini, served at events"
+    },
+    {
+      "file": "canape-4.jpg",
+      "category": "events",
+      "alt": "Smoked salmon, cream cheese and dill bouchees, served at events"
+    }
+  ]
+}

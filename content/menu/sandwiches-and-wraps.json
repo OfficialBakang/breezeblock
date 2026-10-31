@@ -1,0 +1,26 @@
+{
+  "name": "Sandwiches & Wraps",
+  "kind": "food",
+  "order": 50,
+  "intro": "Choose homebaked buttermilk, health bread, or wrap (R10 extra). Served with a side salad or crispy potato wedges.",
+  "items": [
+    {
+      "name": "The V",
+      "description": "Avo, haloumi, tomatoes, tapenade, pesto-mayo",
+      "price": "R80",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "The C",
+      "description": "Chicken breast, leafy greens, harissa & mayo",
+      "price": "R80",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}

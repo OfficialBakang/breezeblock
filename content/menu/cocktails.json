@@ -1,0 +1,89 @@
+{
+  "name": "Cocktails",
+  "kind": "drinks",
+  "order": 170,
+  "intro": "",
+  "items": [
+    {
+      "name": "Brix Fizz (Mimosa)",
+      "description": "",
+      "price": "R36",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "G&T with Inverroche",
+      "description": "",
+      "price": "R55",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "G&T with Bombay Sapphire",
+      "description": "",
+      "price": "R45",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "The Duchess Virgin G&T",
+      "description": "",
+      "price": "R40",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "IsiKulufi (Vodka & OJ)",
+      "description": "",
+      "price": "R55",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Ridge Breeze (Vodka, Cranberry & Soda)",
+      "description": "",
+      "price": "R55",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Ruby Margarita (Tequila, Triple Sec, Grapefruit Juice)",
+      "description": "",
+      "price": "R60",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Bloody Mary",
+      "description": "",
+      "price": "R55 (Virgin R40)",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Espresso Martini",
+      "description": "",
+      "price": "R65",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}

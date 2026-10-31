@@ -1,0 +1,26 @@
+{
+  "name": "Pasta",
+  "kind": "food",
+  "order": 80,
+  "intro": "",
+  "items": [
+    {
+      "name": "Pesto Linguine",
+      "description": "Linguine with parsley pesto, feta & tomatoes",
+      "price": "R65",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Smoked Trout Pasta",
+      "description": "Creamy smoked trout pasta with dill pesto citrus pasta and spiced breadcrumbs",
+      "price": "R110",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}

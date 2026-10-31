@@ -1,0 +1,44 @@
+{
+  "name": "Breakfast Cocktails",
+  "kind": "food",
+  "order": 30,
+  "intro": "",
+  "items": [
+    {
+      "name": "Bloody Mary",
+      "description": "",
+      "price": "R55",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Brix Fizz (Mimosa)",
+      "description": "",
+      "price": "R36",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "isiKulufi (Vodka and fresh OJ)",
+      "description": "",
+      "price": "R52",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Glassy Bubbly",
+      "description": "",
+      "price": "R38",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}

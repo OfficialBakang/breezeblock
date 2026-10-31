@@ -1,0 +1,89 @@
+{
+  "name": "Beer & Cider",
+  "kind": "drinks",
+  "order": 160,
+  "intro": "",
+  "items": [
+    {
+      "name": "Lager on Tap",
+      "description": "",
+      "price": "500ml R45 · 250ml R30",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Black Label (330ml)",
+      "description": "",
+      "price": "R32",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Castle Lite (330ml)",
+      "description": "",
+      "price": "R32",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Windhoek Light (330ml)",
+      "description": "",
+      "price": "R32",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Windhoek Draft (440ml)",
+      "description": "",
+      "price": "R36",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Heineken (330ml)",
+      "description": "",
+      "price": "R34",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Non-Alcoholic Beer (330ml)",
+      "description": "",
+      "price": "R32",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Hunters Dry (330ml)",
+      "description": "",
+      "price": "R34",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Savanna Dry (330ml)",
+      "description": "",
+      "price": "R34",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}

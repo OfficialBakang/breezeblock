@@ -1,0 +1,71 @@
+{
+  "name": "Spirits",
+  "kind": "drinks",
+  "order": 180,
+  "intro": "",
+  "items": [
+    {
+      "name": "Jameson Irish Whiskey",
+      "description": "",
+      "price": "R30",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Laphroaig Scotch Whiskey",
+      "description": "",
+      "price": "R50",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Smirnoff Vodka",
+      "description": "",
+      "price": "R25",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Absolute Vodka",
+      "description": "",
+      "price": "R30",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Bacardi Carta Negra Rum",
+      "description": "",
+      "price": "R28",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "El Jimador Blanco Tequila",
+      "description": "",
+      "price": "R30",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Kahlua Coffee Liqueur",
+      "description": "",
+      "price": "R30",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}

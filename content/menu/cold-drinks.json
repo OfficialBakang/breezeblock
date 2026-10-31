@@ -1,0 +1,53 @@
+{
+  "name": "Cold Drinks",
+  "kind": "drinks",
+  "order": 140,
+  "intro": "",
+  "items": [
+    {
+      "name": "Coke, Coke Lite, Sprite",
+      "description": "",
+      "price": "R25",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Small Batch Ice Tea – Peach or Mint & Lime",
+      "description": "",
+      "price": "R36",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Appletiser",
+      "description": "",
+      "price": "R28",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Sparkling or Still Water",
+      "description": "",
+      "price": "R24",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Rock Shandy",
+      "description": "lemonade, soda, & bitters",
+      "price": "R45",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Desserts",
+  "kind": "food",
+  "order": 90,
+  "intro": "",
+  "items": [
+    {
+      "name": "Gooey chocolate fondant with vanilla ice cream",
+      "description": "",
+      "price": "R50",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    },
+    {
+      "name": "Afrigato",
+      "description": "",
+      "price": "R40",
+      "group": "",
+      "available": true,
+      "photo": null,
+      "photoAlt": ""
+    }
+  ]
+}
